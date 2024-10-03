@@ -1,1 +1,1 @@
-import MAIN
+import __MAIN__.py
