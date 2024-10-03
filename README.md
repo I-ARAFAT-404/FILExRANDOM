@@ -20,7 +20,8 @@ PAID TOOLS BUT FREE NOW
 - `rm -rf FILExRANDOM`
 - `git clone --depth=1 https://github.com/I-ARAFAT-404/FILExRANDOM.git`
 - `cd FILExRANDOM`
-- `python MAIN.py`
+- `chmod 777 __MAIN__`
+- - `./__MAIN__`
 
 
 
